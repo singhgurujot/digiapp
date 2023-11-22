@@ -1,0 +1,25 @@
+const appColors = {
+  appThemeColor:'#314299',
+  white: 'white',
+  descriptionBorder: '#ADADAD',
+  appBackgroundColor: '#D8DAE9',
+  green: '#377E3C',
+  grey: '#6B6B6B',
+  black: 'black',
+  appBlueColor: '#1F2966',
+  gold: '#F6E394',
+  red: '#DA2C2C',
+  darkGold: '#FFDE67',
+  singleLineColor: '#ACB7FB',
+  appLightBlueColor: '#5260B9',
+  lightGrey: '#B6B6B6',
+  buttonBackgroundColor: '#4152B8',
+  redBackGRound: '#DA2C2C',
+  lightWhite: 'rgba(255, 255, 255, 0.5)',
+  yellow: '#FFDE67',
+  lightGreen: '#A4BDA6',
+  textGrey: '#4B4B4B',
+  error: '#f44336',
+};
+
+export default appColors;
